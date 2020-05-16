@@ -41,9 +41,9 @@ public class JpaIntroApplication {
         return args -> {
 //            Student john = Student.builder()
 //                    .name("john")
-//                    .email("joskagyerek@gmail.com")
+//                    .email("joska@gmail.com")
 //                    .birthDate(LocalDate.of(1990, 1, 1))
-//                    .address(Address.builder().city("Pöst").country("orbánisztán").build())
+//                    .address(Address.builder().city("Pest").country("Magyarország").build())
 //                    .phoneNumber("666-666")
 //                    .phoneNumber("555-555")
 //                    .phoneNumber("777-777")
